@@ -1,1 +1,3 @@
-openpath*.csv
+*checkpoint*
+*.csv
+*.html
