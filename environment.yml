@@ -1,0 +1,9 @@
+name: jahresrueckblick
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas  
+  - matplotlib
+  - mplleaflet
