@@ -1,9 +1,11 @@
 name: jahresrueckblick
 channels:
-  - anaconda
   - conda-forge
   - defaults
 dependencies:
+  - jupyter
   - pandas  
+  - geopy
   - matplotlib
   - mplleaflet
+  - folium
